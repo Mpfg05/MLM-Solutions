@@ -1,7 +1,7 @@
 ## 🧑‍💻 Autores
 
 Luiz Felipe - 2401594  
-Marcos Paulo - 2401765 
+Marcos Paulo - 2401765  
 Milene Oliveira - 2401439 
 
 

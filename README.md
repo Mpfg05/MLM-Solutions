@@ -1,8 +1,8 @@
 ## 🧑‍💻 Autores
 
-Luiz Felipe - 2401594 
-Marcos Paulo - 2401765
-Milene Oliveira - 2401439
+Luiz Felipe - 2401594  
+Marcos Paulo - 2401765 
+Milene Oliveira - 2401439 
 
 
 ## 🏙 Nome da Equipe

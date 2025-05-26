@@ -5,7 +5,7 @@ Marcos Paulo - 2401765
 Milene Oliveira - 2401439
 
 
-## 🏙🏙 Nome da Equipe
+## 🏙 Nome da Equipe
 
 MLM-Solutions
 

@@ -7,13 +7,12 @@ Milene Oliveira - 2401439
 
 ## 🏙 Nome da Equipe
 
-Aposta Zero
+MLM - Solutions
 
 
 ## 📲 Nome do App
 
-BetWise
-
+Aposta Zero
 
 ## 🧩 Resumo 
 

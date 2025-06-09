@@ -17,7 +17,7 @@ BetWise
 
 ## 🧩 Resumo 
 
-Nosso objetivo é desenvolver uma casa de apostas diferenciada, cujo principal valor é o cuidado com o bem-estar financeiro dos seus clientes. O aplicativo terá como objetivo fornecer dicas estratégicas de apostas, além de implementar limites diários para o valor apostado, visando educar o usuário sobre práticas de jogo consciente e sustentável.
+Nosso objetivo é desenvolver um aplicativo que ajude pessoas a lidar com vícios em casas de apostas, tendo como principal valor o cuidado com o bem-estar financeiro dos seus usuários. O app terá como propósito oferecer dicas estratégicas, ferramentas úteis e eficazes, além de informar e explicar os possíveis problemas relacionados ao vício em jogos de aposta.
 
 
 

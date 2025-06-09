@@ -7,7 +7,7 @@ Milene Oliveira - 2401439
 
 ## 🏙 Nome da Equipe
 
-MLM-Solutions
+Aposta Zero
 
 
 ## 📲 Nome do App
